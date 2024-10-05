@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-10-05 13:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-10-05 13:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga_hills": "2024-10-05 13:00:20 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
